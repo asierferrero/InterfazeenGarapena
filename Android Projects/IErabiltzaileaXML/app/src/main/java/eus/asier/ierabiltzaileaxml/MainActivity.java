@@ -6,6 +6,7 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
 import android.widget.TextView;
+import android.content.Intent;
 
 public class MainActivity extends AppCompatActivity {
 
@@ -26,6 +27,7 @@ public class MainActivity extends AppCompatActivity {
 
                 txtTestua.setText("Kaixo Mundua!!!");
                 setContentView(R.layout.activity_bigarrena);
+                startActivity(new Intent(MainActivity.this,Bigarrena.class));
             }
         });
     }
