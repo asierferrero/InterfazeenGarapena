@@ -1,0 +1,16 @@
+C:\Users\ferrero.asier\Desktop\DAM2\Interfazeen garapena\Visual Studio\KaixoMundua\KaixoMundua\KaixoMundua\bin\Debug\net6.0-windows\KaixoMundua.exe
+C:\Users\ferrero.asier\Desktop\DAM2\Interfazeen garapena\Visual Studio\KaixoMundua\KaixoMundua\KaixoMundua\bin\Debug\net6.0-windows\KaixoMundua.deps.json
+C:\Users\ferrero.asier\Desktop\DAM2\Interfazeen garapena\Visual Studio\KaixoMundua\KaixoMundua\KaixoMundua\bin\Debug\net6.0-windows\KaixoMundua.runtimeconfig.json
+C:\Users\ferrero.asier\Desktop\DAM2\Interfazeen garapena\Visual Studio\KaixoMundua\KaixoMundua\KaixoMundua\bin\Debug\net6.0-windows\KaixoMundua.dll
+C:\Users\ferrero.asier\Desktop\DAM2\Interfazeen garapena\Visual Studio\KaixoMundua\KaixoMundua\KaixoMundua\bin\Debug\net6.0-windows\KaixoMundua.pdb
+C:\Users\ferrero.asier\Desktop\DAM2\Interfazeen garapena\Visual Studio\KaixoMundua\KaixoMundua\KaixoMundua\obj\Debug\net6.0-windows\KaixoMundua.Form1.resources
+C:\Users\ferrero.asier\Desktop\DAM2\Interfazeen garapena\Visual Studio\KaixoMundua\KaixoMundua\KaixoMundua\obj\Debug\net6.0-windows\KaixoMundua.csproj.GenerateResource.cache
+C:\Users\ferrero.asier\Desktop\DAM2\Interfazeen garapena\Visual Studio\KaixoMundua\KaixoMundua\KaixoMundua\obj\Debug\net6.0-windows\KaixoMundua.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ferrero.asier\Desktop\DAM2\Interfazeen garapena\Visual Studio\KaixoMundua\KaixoMundua\KaixoMundua\obj\Debug\net6.0-windows\KaixoMundua.AssemblyInfoInputs.cache
+C:\Users\ferrero.asier\Desktop\DAM2\Interfazeen garapena\Visual Studio\KaixoMundua\KaixoMundua\KaixoMundua\obj\Debug\net6.0-windows\KaixoMundua.AssemblyInfo.cs
+C:\Users\ferrero.asier\Desktop\DAM2\Interfazeen garapena\Visual Studio\KaixoMundua\KaixoMundua\KaixoMundua\obj\Debug\net6.0-windows\KaixoMundua.csproj.CoreCompileInputs.cache
+C:\Users\ferrero.asier\Desktop\DAM2\Interfazeen garapena\Visual Studio\KaixoMundua\KaixoMundua\KaixoMundua\obj\Debug\net6.0-windows\KaixoMundua.dll
+C:\Users\ferrero.asier\Desktop\DAM2\Interfazeen garapena\Visual Studio\KaixoMundua\KaixoMundua\KaixoMundua\obj\Debug\net6.0-windows\refint\KaixoMundua.dll
+C:\Users\ferrero.asier\Desktop\DAM2\Interfazeen garapena\Visual Studio\KaixoMundua\KaixoMundua\KaixoMundua\obj\Debug\net6.0-windows\KaixoMundua.pdb
+C:\Users\ferrero.asier\Desktop\DAM2\Interfazeen garapena\Visual Studio\KaixoMundua\KaixoMundua\KaixoMundua\obj\Debug\net6.0-windows\KaixoMundua.genruntimeconfig.cache
+C:\Users\ferrero.asier\Desktop\DAM2\Interfazeen garapena\Visual Studio\KaixoMundua\KaixoMundua\KaixoMundua\obj\Debug\net6.0-windows\ref\KaixoMundua.dll
