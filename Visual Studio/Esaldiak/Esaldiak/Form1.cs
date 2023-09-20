@@ -1,50 +1,76 @@
+using System;
+using System.Windows.Forms;
+
 namespace Esaldiak
 {
     public partial class Form1 : Form
     {
+        private Esaldia esaldiakKlasea = new Esaldia();
+
         public Form1()
         {
             InitializeComponent();
+            esaldi1.Enabled = true;
+            esaldi2.Enabled = false;
+            esaldi3.Enabled = false;
+            button4.Enabled = false;
+            esaldi5.Enabled = false;
+            lotu.Enabled = false;
         }
 
         private void esaldi1_Click(object sender, EventArgs e)
         {
             esaldi1.Enabled = true;
             String esaldia1 = textBox1.Text;
+            esaldiakKlasea.GehituEsaldia(esaldia1);
             esaldi1.Enabled = false;
-            esaldi2_Click(sender, e);
+            esaldi2.Enabled = true;
+            textBox1.Clear();
+
         }
 
         private void esaldi2_Click(object sender, EventArgs e)
         {
-            esaldi2.Enabled = true;
             String esaldia2 = textBox1.Text;
+            esaldiakKlasea.GehituEsaldia(esaldia2);
             esaldi2.Enabled = false;
-            esaldi3_Click(sender, e);
+            esaldi3.Enabled = true;
+            textBox1.Clear();
         }
 
         private void esaldi3_Click(object sender, EventArgs e)
-        {
-            esaldi3.Enabled = false;
+        {          
             String esaldia3 = textBox1.Text;
+            esaldiakKlasea.GehituEsaldia(esaldia3);
+            esaldi3.Enabled = false;
+            button4.Enabled = true;
+            textBox1.Clear();
         }
 
         private void button4_Click(object sender, EventArgs e)
-        {
-            button4.Enabled = false;
+        {           
             String esaldia4 = textBox1.Text;
+            esaldiakKlasea.GehituEsaldia(esaldia4);
+            button4.Enabled = false;
+            esaldi5.Enabled = true;
+            textBox1.Clear();
         }
 
         private void esaldi5_Click(object sender, EventArgs e)
-        {
-            esaldi5.Enabled = false;
+        {           
             String esaldia5 = textBox1.Text;
+            esaldiakKlasea.GehituEsaldia(esaldia5);
+            esaldi5.Enabled = false;
+            lotu.Enabled = true;
+            textBox1.Clear();
         }
 
         private void lotu_Click(object sender, EventArgs e)
         {
+            string esaldiak = esaldiakKlasea.EsaldiOsoa();
+            MessageBox.Show(esaldiak);
             lotu.Enabled = false;
-           // MessageBox.Show(esaldi1 + esaldi2 + esaldi3 + esaldi4 + esaldi5);
+            textBox1.Clear();
         }
     }
 }
