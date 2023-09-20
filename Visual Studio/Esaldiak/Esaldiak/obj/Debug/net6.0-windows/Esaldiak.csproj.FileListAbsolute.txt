@@ -1,0 +1,16 @@
+C:\Users\ferrero.asier\Desktop\DAM2\Interfazeen garapena\Visual Studio\Esaldiak\Esaldiak\obj\Debug\net6.0-windows\Esaldiak.Form1.resources
+C:\Users\ferrero.asier\Desktop\DAM2\Interfazeen garapena\Visual Studio\Esaldiak\Esaldiak\obj\Debug\net6.0-windows\Esaldiak.csproj.GenerateResource.cache
+C:\Users\ferrero.asier\Desktop\DAM2\Interfazeen garapena\Visual Studio\Esaldiak\Esaldiak\obj\Debug\net6.0-windows\Esaldiak.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ferrero.asier\Desktop\DAM2\Interfazeen garapena\Visual Studio\Esaldiak\Esaldiak\obj\Debug\net6.0-windows\Esaldiak.AssemblyInfoInputs.cache
+C:\Users\ferrero.asier\Desktop\DAM2\Interfazeen garapena\Visual Studio\Esaldiak\Esaldiak\obj\Debug\net6.0-windows\Esaldiak.AssemblyInfo.cs
+C:\Users\ferrero.asier\Desktop\DAM2\Interfazeen garapena\Visual Studio\Esaldiak\Esaldiak\obj\Debug\net6.0-windows\Esaldiak.csproj.CoreCompileInputs.cache
+C:\Users\ferrero.asier\Desktop\DAM2\Interfazeen garapena\Visual Studio\Esaldiak\Esaldiak\bin\Debug\net6.0-windows\Esaldiak.exe
+C:\Users\ferrero.asier\Desktop\DAM2\Interfazeen garapena\Visual Studio\Esaldiak\Esaldiak\bin\Debug\net6.0-windows\Esaldiak.deps.json
+C:\Users\ferrero.asier\Desktop\DAM2\Interfazeen garapena\Visual Studio\Esaldiak\Esaldiak\bin\Debug\net6.0-windows\Esaldiak.runtimeconfig.json
+C:\Users\ferrero.asier\Desktop\DAM2\Interfazeen garapena\Visual Studio\Esaldiak\Esaldiak\bin\Debug\net6.0-windows\Esaldiak.dll
+C:\Users\ferrero.asier\Desktop\DAM2\Interfazeen garapena\Visual Studio\Esaldiak\Esaldiak\bin\Debug\net6.0-windows\Esaldiak.pdb
+C:\Users\ferrero.asier\Desktop\DAM2\Interfazeen garapena\Visual Studio\Esaldiak\Esaldiak\obj\Debug\net6.0-windows\Esaldiak.dll
+C:\Users\ferrero.asier\Desktop\DAM2\Interfazeen garapena\Visual Studio\Esaldiak\Esaldiak\obj\Debug\net6.0-windows\refint\Esaldiak.dll
+C:\Users\ferrero.asier\Desktop\DAM2\Interfazeen garapena\Visual Studio\Esaldiak\Esaldiak\obj\Debug\net6.0-windows\Esaldiak.pdb
+C:\Users\ferrero.asier\Desktop\DAM2\Interfazeen garapena\Visual Studio\Esaldiak\Esaldiak\obj\Debug\net6.0-windows\Esaldiak.genruntimeconfig.cache
+C:\Users\ferrero.asier\Desktop\DAM2\Interfazeen garapena\Visual Studio\Esaldiak\Esaldiak\obj\Debug\net6.0-windows\ref\Esaldiak.dll
