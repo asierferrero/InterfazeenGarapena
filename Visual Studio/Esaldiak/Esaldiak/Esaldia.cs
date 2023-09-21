@@ -8,7 +8,7 @@ namespace Esaldiak
 
         public void GehituEsaldia(string esaldiaBerria)
         {
-            esaldia = esaldia + esaldiaBerria + " ";
+            esaldia += esaldiaBerria + " ";
         }
 
         public string EsaldiOsoa()

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ferrero.asier\\Desktop\\DAM2\\Interfazeen garapena\\Visual Studio\\Esaldiak\\Esaldiak\\Esaldiak.csproj": {}
+    "C:\\Users\\ferrero.asier\\Documents\\GitHub\\Interfazeen-Garapena\\Visual Studio\\Esaldiak\\Esaldiak\\Esaldiak.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ferrero.asier\\Desktop\\DAM2\\Interfazeen garapena\\Visual Studio\\Esaldiak\\Esaldiak\\Esaldiak.csproj": {
+    "C:\\Users\\ferrero.asier\\Documents\\GitHub\\Interfazeen-Garapena\\Visual Studio\\Esaldiak\\Esaldiak\\Esaldiak.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ferrero.asier\\Desktop\\DAM2\\Interfazeen garapena\\Visual Studio\\Esaldiak\\Esaldiak\\Esaldiak.csproj",
+        "projectUniqueName": "C:\\Users\\ferrero.asier\\Documents\\GitHub\\Interfazeen-Garapena\\Visual Studio\\Esaldiak\\Esaldiak\\Esaldiak.csproj",
         "projectName": "Esaldiak",
-        "projectPath": "C:\\Users\\ferrero.asier\\Desktop\\DAM2\\Interfazeen garapena\\Visual Studio\\Esaldiak\\Esaldiak\\Esaldiak.csproj",
+        "projectPath": "C:\\Users\\ferrero.asier\\Documents\\GitHub\\Interfazeen-Garapena\\Visual Studio\\Esaldiak\\Esaldiak\\Esaldiak.csproj",
         "packagesPath": "C:\\Users\\ferrero.asier\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ferrero.asier\\Desktop\\DAM2\\Interfazeen garapena\\Visual Studio\\Esaldiak\\Esaldiak\\obj\\",
+        "outputPath": "C:\\Users\\ferrero.asier\\Documents\\GitHub\\Interfazeen-Garapena\\Visual Studio\\Esaldiak\\Esaldiak\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ferrero.asier\\AppData\\Roaming\\NuGet\\NuGet.Config",
