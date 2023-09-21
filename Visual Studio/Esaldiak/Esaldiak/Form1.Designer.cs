@@ -35,6 +35,8 @@
             esaldi5 = new Button();
             lotu = new Button();
             textBox1 = new TextBox();
+            garbitu = new Button();
+            itxi = new Button();
             SuspendLayout();
             // 
             // esaldi1
@@ -104,11 +106,33 @@
             textBox1.Size = new Size(432, 27);
             textBox1.TabIndex = 6;
             // 
+            // garbitu
+            // 
+            garbitu.Location = new Point(238, 334);
+            garbitu.Name = "garbitu";
+            garbitu.Size = new Size(126, 43);
+            garbitu.TabIndex = 7;
+            garbitu.Text = "Garbitu";
+            garbitu.UseVisualStyleBackColor = true;
+            garbitu.Click += garbitu_Click;
+            // 
+            // itxi
+            // 
+            itxi.Location = new Point(434, 334);
+            itxi.Name = "itxi";
+            itxi.Size = new Size(126, 43);
+            itxi.TabIndex = 8;
+            itxi.Text = "Itxi";
+            itxi.UseVisualStyleBackColor = true;
+            itxi.Click += itxi_Click;
+            // 
             // Form1
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(800, 450);
+            Controls.Add(itxi);
+            Controls.Add(garbitu);
             Controls.Add(textBox1);
             Controls.Add(lotu);
             Controls.Add(esaldi5);
@@ -131,5 +155,7 @@
         private Button esaldi5;
         private Button lotu;
         private TextBox textBox1;
+        private Button garbitu;
+        private Button itxi;
     }
 }

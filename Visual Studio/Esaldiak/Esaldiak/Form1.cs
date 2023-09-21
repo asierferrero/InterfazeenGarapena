@@ -16,10 +16,12 @@ namespace Esaldiak
             button4.Enabled = false;
             esaldi5.Enabled = false;
             lotu.Enabled = false;
+            textBox1.Focus();
         }
 
         private void esaldi1_Click(object sender, EventArgs e)
         {
+            textBox1.Focus();
             esaldi1.Enabled = true;
             String esaldia1 = textBox1.Text;
             esaldiakKlasea.GehituEsaldia(esaldia1);
@@ -31,6 +33,7 @@ namespace Esaldiak
 
         private void esaldi2_Click(object sender, EventArgs e)
         {
+            textBox1.Focus();
             String esaldia2 = textBox1.Text;
             esaldiakKlasea.GehituEsaldia(esaldia2);
             esaldi2.Enabled = false;
@@ -39,7 +42,8 @@ namespace Esaldiak
         }
 
         private void esaldi3_Click(object sender, EventArgs e)
-        {          
+        {
+            textBox1.Focus();
             String esaldia3 = textBox1.Text;
             esaldiakKlasea.GehituEsaldia(esaldia3);
             esaldi3.Enabled = false;
@@ -48,7 +52,8 @@ namespace Esaldiak
         }
 
         private void button4_Click(object sender, EventArgs e)
-        {           
+        {
+            textBox1.Focus();
             String esaldia4 = textBox1.Text;
             esaldiakKlasea.GehituEsaldia(esaldia4);
             button4.Enabled = false;
@@ -57,7 +62,7 @@ namespace Esaldiak
         }
 
         private void esaldi5_Click(object sender, EventArgs e)
-        {           
+        {
             String esaldia5 = textBox1.Text;
             esaldiakKlasea.GehituEsaldia(esaldia5);
             esaldi5.Enabled = false;
@@ -67,10 +72,20 @@ namespace Esaldiak
 
         private void lotu_Click(object sender, EventArgs e)
         {
+            textBox1.Enabled = false;
             string esaldiak = esaldiakKlasea.EsaldiOsoa();
             MessageBox.Show(esaldiak);
             lotu.Enabled = false;
-            textBox1.Clear();
+        }
+
+        private void itxi_Click(object sender, EventArgs e)
+        {
+            Application.Exit();
+        }
+
+        private void garbitu_Click(object sender, EventArgs e)
+        {
+            Application.Restart();
         }
     }
 }
