@@ -8,19 +8,19 @@
     "net6.0-windows7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\ferrero.asier\\.nuget\\packages\\": {}
+    "C:\\Users\\asier\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ferrero.asier\\Documents\\GitHub\\Interfazeen-Garapena\\Visual Studio\\Ariketa2\\Ariketa2\\Ariketa2.csproj",
+      "projectUniqueName": "C:\\Users\\asier\\Desktop\\DAM\\DAM2\\Interfazeen-Garapena\\Visual Studio\\Ariketa2\\Ariketa2\\Ariketa2.csproj",
       "projectName": "Ariketa2",
-      "projectPath": "C:\\Users\\ferrero.asier\\Documents\\GitHub\\Interfazeen-Garapena\\Visual Studio\\Ariketa2\\Ariketa2\\Ariketa2.csproj",
-      "packagesPath": "C:\\Users\\ferrero.asier\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ferrero.asier\\Documents\\GitHub\\Interfazeen-Garapena\\Visual Studio\\Ariketa2\\Ariketa2\\obj\\",
+      "projectPath": "C:\\Users\\asier\\Desktop\\DAM\\DAM2\\Interfazeen-Garapena\\Visual Studio\\Ariketa2\\Ariketa2\\Ariketa2.csproj",
+      "packagesPath": "C:\\Users\\asier\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\asier\\Desktop\\DAM\\DAM2\\Interfazeen-Garapena\\Visual Studio\\Ariketa2\\Ariketa2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\ferrero.asier\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\asier\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
