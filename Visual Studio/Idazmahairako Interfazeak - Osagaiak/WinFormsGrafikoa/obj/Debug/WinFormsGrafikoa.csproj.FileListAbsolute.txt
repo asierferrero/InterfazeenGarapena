@@ -1,0 +1,13 @@
+C:\Users\asier\Desktop\DAM\DAM2\Interfazeen-Garapena\Visual Studio\Idazmahairako Interfazeak - Osagaiak\WinFormsGrafikoa\bin\Debug\WinFormsGrafikoa.exe.config
+C:\Users\asier\Desktop\DAM\DAM2\Interfazeen-Garapena\Visual Studio\Idazmahairako Interfazeak - Osagaiak\WinFormsGrafikoa\bin\Debug\WinFormsGrafikoa.exe
+C:\Users\asier\Desktop\DAM\DAM2\Interfazeen-Garapena\Visual Studio\Idazmahairako Interfazeak - Osagaiak\WinFormsGrafikoa\bin\Debug\WinFormsGrafikoa.pdb
+C:\Users\asier\Desktop\DAM\DAM2\Interfazeen-Garapena\Visual Studio\Idazmahairako Interfazeak - Osagaiak\WinFormsGrafikoa\bin\Debug\GrafikoaDll.dll
+C:\Users\asier\Desktop\DAM\DAM2\Interfazeen-Garapena\Visual Studio\Idazmahairako Interfazeak - Osagaiak\WinFormsGrafikoa\bin\Debug\GrafikoaDll.pdb
+C:\Users\asier\Desktop\DAM\DAM2\Interfazeen-Garapena\Visual Studio\Idazmahairako Interfazeak - Osagaiak\WinFormsGrafikoa\obj\Debug\WinFormsGrafikoa.csproj.AssemblyReference.cache
+C:\Users\asier\Desktop\DAM\DAM2\Interfazeen-Garapena\Visual Studio\Idazmahairako Interfazeak - Osagaiak\WinFormsGrafikoa\obj\Debug\WinFormsGrafikoa.Form1.resources
+C:\Users\asier\Desktop\DAM\DAM2\Interfazeen-Garapena\Visual Studio\Idazmahairako Interfazeak - Osagaiak\WinFormsGrafikoa\obj\Debug\WinFormsGrafikoa.Properties.Resources.resources
+C:\Users\asier\Desktop\DAM\DAM2\Interfazeen-Garapena\Visual Studio\Idazmahairako Interfazeak - Osagaiak\WinFormsGrafikoa\obj\Debug\WinFormsGrafikoa.csproj.GenerateResource.cache
+C:\Users\asier\Desktop\DAM\DAM2\Interfazeen-Garapena\Visual Studio\Idazmahairako Interfazeak - Osagaiak\WinFormsGrafikoa\obj\Debug\WinFormsGrafikoa.csproj.CoreCompileInputs.cache
+C:\Users\asier\Desktop\DAM\DAM2\Interfazeen-Garapena\Visual Studio\Idazmahairako Interfazeak - Osagaiak\WinFormsGrafikoa\obj\Debug\WinFormsGrafikoa.csproj.CopyComplete
+C:\Users\asier\Desktop\DAM\DAM2\Interfazeen-Garapena\Visual Studio\Idazmahairako Interfazeak - Osagaiak\WinFormsGrafikoa\obj\Debug\WinFormsGrafikoa.exe
+C:\Users\asier\Desktop\DAM\DAM2\Interfazeen-Garapena\Visual Studio\Idazmahairako Interfazeak - Osagaiak\WinFormsGrafikoa\obj\Debug\WinFormsGrafikoa.pdb

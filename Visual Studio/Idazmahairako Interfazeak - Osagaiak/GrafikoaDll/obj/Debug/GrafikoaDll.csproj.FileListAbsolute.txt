@@ -1,0 +1,8 @@
+C:\Users\asier\Desktop\DAM\DAM2\Interfazeen-Garapena\Visual Studio\Idazmahairako Interfazeak - Osagaiak\GrafikoaDll\bin\Debug\GrafikoaDll.dll
+C:\Users\asier\Desktop\DAM\DAM2\Interfazeen-Garapena\Visual Studio\Idazmahairako Interfazeak - Osagaiak\GrafikoaDll\bin\Debug\GrafikoaDll.pdb
+C:\Users\asier\Desktop\DAM\DAM2\Interfazeen-Garapena\Visual Studio\Idazmahairako Interfazeak - Osagaiak\GrafikoaDll\obj\Debug\GrafikoaDll.csproj.AssemblyReference.cache
+C:\Users\asier\Desktop\DAM\DAM2\Interfazeen-Garapena\Visual Studio\Idazmahairako Interfazeak - Osagaiak\GrafikoaDll\obj\Debug\GrafikoaDll.Grafikoa.resources
+C:\Users\asier\Desktop\DAM\DAM2\Interfazeen-Garapena\Visual Studio\Idazmahairako Interfazeak - Osagaiak\GrafikoaDll\obj\Debug\GrafikoaDll.csproj.GenerateResource.cache
+C:\Users\asier\Desktop\DAM\DAM2\Interfazeen-Garapena\Visual Studio\Idazmahairako Interfazeak - Osagaiak\GrafikoaDll\obj\Debug\GrafikoaDll.csproj.CoreCompileInputs.cache
+C:\Users\asier\Desktop\DAM\DAM2\Interfazeen-Garapena\Visual Studio\Idazmahairako Interfazeak - Osagaiak\GrafikoaDll\obj\Debug\GrafikoaDll.dll
+C:\Users\asier\Desktop\DAM\DAM2\Interfazeen-Garapena\Visual Studio\Idazmahairako Interfazeak - Osagaiak\GrafikoaDll\obj\Debug\GrafikoaDll.pdb

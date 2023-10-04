@@ -1,0 +1,8 @@
+C:\Users\asier\source\repos\KaixoDll\obj\Debug\KaixoDll.csproj.AssemblyReference.cache
+C:\Users\asier\source\repos\KaixoDll\obj\Debug\KaixoDll.Kaixo.resources
+C:\Users\asier\source\repos\KaixoDll\obj\Debug\KaixoDll.csproj.GenerateResource.cache
+C:\Users\asier\source\repos\KaixoDll\obj\Debug\KaixoDll.csproj.CoreCompileInputs.cache
+C:\Users\asier\source\repos\KaixoDll\bin\Debug\KaixoDll.dll
+C:\Users\asier\source\repos\KaixoDll\bin\Debug\KaixoDll.pdb
+C:\Users\asier\source\repos\KaixoDll\obj\Debug\KaixoDll.dll
+C:\Users\asier\source\repos\KaixoDll\obj\Debug\KaixoDll.pdb
