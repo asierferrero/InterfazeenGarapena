@@ -58,6 +58,7 @@
             this.chart2 = new System.Windows.Forms.DataVisualization.Charting.Chart();
             this.bindingSource1 = new System.Windows.Forms.BindingSource(this.components);
             this.helpProvider1 = new System.Windows.Forms.HelpProvider();
+            this.toolTip1 = new System.Windows.Forms.ToolTip(this.components);
             this.groupBox1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.groupBox2.SuspendLayout();
@@ -232,7 +233,7 @@
             chartArea1.BackColor = System.Drawing.SystemColors.ControlDark;
             chartArea1.Name = "ChartArea1";
             this.chart1.ChartAreas.Add(chartArea1);
-            this.helpProvider1.SetHelpString(this.chart1, "Saltzaile bakoitzak (Y ardatza) \\n Dituen bezeroak (X ardatza)");
+            this.helpProvider1.SetHelpString(this.chart1, "«Saltzaile bakoitzak (Y ardatza) dituen bezeroak (X ardatza)");
             legend1.Enabled = false;
             legend1.Name = "Legend1";
             this.chart1.Legends.Add(legend1);
@@ -252,6 +253,7 @@
             title1.Name = "BEZEROAK SALTZAILE BAKOITZEKO";
             title1.Text = "BEZEROAK SALTZAILE BAKOITZEKO";
             this.chart1.Titles.Add(title1);
+            this.toolTip1.SetToolTip(this.chart1, " «Saltzaile bakoitzak (Y ardatza) dituen bezeroak (X ardatza)»");
             this.chart1.Click += new System.EventHandler(this.chart1_Click);
             // 
             // groupBox5
@@ -293,6 +295,7 @@
             title2.Name = "BEZEROAK SALTZAILE BAKOITZEKO";
             title2.Text = "SALMENTA GEHIENGO BEZEROAK";
             this.chart2.Titles.Add(title2);
+            this.toolTip1.SetToolTip(this.chart2, " «Saltzaile bakoitzak (Y ardatza) dituen bezeroak (X ardatza)»");
             this.chart2.Click += new System.EventHandler(this.chart2_Click);
             // 
             // Form1
@@ -310,11 +313,9 @@
             this.Controls.Add(this.groupBox1);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
             this.HelpButton = true;
-            this.helpProvider1.SetHelpString(this, "");
             this.MaximizeBox = false;
             this.MinimizeBox = false;
             this.Name = "Form1";
-            this.helpProvider1.SetShowHelp(this, true);
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Form1";
             this.Load += new System.EventHandler(this.Form1_Load_1);
@@ -360,6 +361,7 @@
         private System.Windows.Forms.Label label6;
         private System.Windows.Forms.DataVisualization.Charting.Chart chart2;
         private System.Windows.Forms.HelpProvider helpProvider1;
+        private System.Windows.Forms.ToolTip toolTip1;
     }
 }
 

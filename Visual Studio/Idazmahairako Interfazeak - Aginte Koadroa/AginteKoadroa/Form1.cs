@@ -66,12 +66,11 @@ namespace AginteKoadroa
                         chart2.Series[0].YValueMembers = "Value";
                         chart2.Series[0].XValueMember = "Key";
                         chart2.DataBind();
-                        
+                     
                     }
                 }
             }
         }
-        
 
         private void label5_Click(object sender, EventArgs e)
         {
