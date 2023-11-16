@@ -1,0 +1,9 @@
+C:\Users\asier\Desktop\Azterketa ikasleentzat\NutrinfoDll\bin\Debug\NutrinfoDll.dll
+C:\Users\asier\Desktop\Azterketa ikasleentzat\NutrinfoDll\bin\Debug\NutrinfoDll.pdb
+C:\Users\asier\Desktop\Azterketa ikasleentzat\NutrinfoDll\obj\Debug\NutrinfoDll.csproj.AssemblyReference.cache
+C:\Users\asier\Desktop\Azterketa ikasleentzat\NutrinfoDll\obj\Debug\NutrinfoDll.Properties.Resources.resources
+C:\Users\asier\Desktop\Azterketa ikasleentzat\NutrinfoDll\obj\Debug\NutrinfoDll.UserControl1.resources
+C:\Users\asier\Desktop\Azterketa ikasleentzat\NutrinfoDll\obj\Debug\NutrinfoDll.csproj.GenerateResource.cache
+C:\Users\asier\Desktop\Azterketa ikasleentzat\NutrinfoDll\obj\Debug\NutrinfoDll.csproj.CoreCompileInputs.cache
+C:\Users\asier\Desktop\Azterketa ikasleentzat\NutrinfoDll\obj\Debug\NutrinfoDll.dll
+C:\Users\asier\Desktop\Azterketa ikasleentzat\NutrinfoDll\obj\Debug\NutrinfoDll.pdb
