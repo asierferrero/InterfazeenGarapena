@@ -1,11 +1,19 @@
 is_global = true
 build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
 build_property.TargetPlatformMinVersion = 
 build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
 build_property.ProjectTypeGuids = 
 build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
 build_property.PlatformNeutralAssembly = 
 build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Adibidea
 build_property.RootNamespace = Adibidea
@@ -18,6 +26,14 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\asier\Desktop\DAM\DAM2\Interfazeen-Garapena\Visual Studio\ASP.NET - Sarrera\Adibidea
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/asier/Desktop/DAM/DAM2/Interfazeen-Garapena/Visual Studio/ASP.NET - Sarrera/Adibidea/Views/Agenda/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWdlbmRhXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/asier/Desktop/DAM/DAM2/Interfazeen-Garapena/Visual Studio/ASP.NET - Sarrera/Adibidea/Views/Agenda/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWdlbmRhXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/asier/Desktop/DAM/DAM2/Interfazeen-Garapena/Visual Studio/ASP.NET - Sarrera/Adibidea/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
@@ -28,6 +44,10 @@ build_metadata.AdditionalFiles.CssScope =
 
 [C:/Users/asier/Desktop/DAM/DAM2/Interfazeen-Garapena/Visual Studio/ASP.NET - Sarrera/Adibidea/Views/KaixoMundua/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS2FpeG9NdW5kdWFcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/asier/Desktop/DAM/DAM2/Interfazeen-Garapena/Visual Studio/ASP.NET - Sarrera/Adibidea/Views/KaixoMundua/OngiEtorri.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS2FpeG9NdW5kdWFcT25naUV0b3JyaS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/asier/Desktop/DAM/DAM2/Interfazeen-Garapena/Visual Studio/ASP.NET - Sarrera/Adibidea/Views/Shared/Error.cshtml]

@@ -9,9 +9,12 @@ namespace Adibidea.Controllers
         {
             return View();
         }
-        public string OngiEtorri(string izena, int zenbat = 1)
+        public ActionResult OngiEtorri(string izena, int
+        zenbat = 1)
         {
-            return HttpUtility.HtmlEncode("Kaixo " + izena + ", zenbat da: " + zenbat);
+            ViewBag.Mezua = "Hello " + izena;
+            ViewBag.Zenbat = zenbat;
+            return View();
         }
     }
 }

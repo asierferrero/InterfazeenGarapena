@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Adibidea")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0d15d43c7436fe98e68064b3d0fd1158493e1380")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e436726106cac833860051bf6ce8bfaa6e097fec")]
 [assembly: System.Reflection.AssemblyProductAttribute("Adibidea")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Adibidea")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
