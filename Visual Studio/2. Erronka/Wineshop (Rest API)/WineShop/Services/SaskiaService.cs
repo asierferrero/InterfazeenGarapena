@@ -59,5 +59,20 @@ namespace WineShop.Services
                 }
             }
         }
+        public async Task<List<SaskiaAlea>> SaskiaLortuAleak(string saskiaId)
+        {
+            //Saskia lortu
+            Uri rutasaskia = new Uri(rutaTodos, saskiaId);
+            List<SaskiaAlea> saskiaAleaList = new List<SaskiaAlea>();
+            using (var httpClient = new HttpClient())
+            {
+                using (var response = await httpClient.GetAsync(rutasaskia))
+                {
+                    string apiResponse = await response.Content.ReadAsStringAsync();
+                    saskiaAleaList = JsonConvert.DeserializeObject<List<SaskiaAlea>>(apiResponse);
+                }
+            }
+            return saskiaAleaList;
+        }
     }
 }

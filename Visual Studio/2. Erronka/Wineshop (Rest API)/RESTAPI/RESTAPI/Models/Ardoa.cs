@@ -19,8 +19,12 @@ namespace RESTAPI.Models
         public int Deskontua { get; set; }
         public bool Eskaintza { get; set; }
         public int UpeltegiaId { get; set; }
-        public virtual Upeltegia Upeltegia { get; set; }
         public int MotaId { get; set; }
+
+        [System.Text.Json.Serialization.JsonIgnore]
+        public virtual Upeltegia Upeltegia { get; set; }
+
+        [System.Text.Json.Serialization.JsonIgnore]
         public virtual Mota Mota { get; set; }
     }
 }
