@@ -46,10 +46,15 @@ namespace RESTAPI.Services
         {
             return _context.SaskiaAlea.Any(e => e.Id == id);
         }
-        public async Task PostBezeroaEskaera(BezeroaEskaera bezeroaEskaera)
+        public async Task<List<BezeroaEskaera>> GetBezeroaEskaerak()
+        {
+            return await _context.BezeroaEskaera.ToListAsync();
+        }
+        public async Task<BezeroaEskaera> PostBezeroaEskaera(BezeroaEskaera bezeroaEskaera)
         {
             _context.BezeroaEskaera.Add(bezeroaEskaera);
             await _context.SaveChangesAsync();
+            return bezeroaEskaera;
         }
         public async Task PostErosketa(Erosketa erosketa)
         {

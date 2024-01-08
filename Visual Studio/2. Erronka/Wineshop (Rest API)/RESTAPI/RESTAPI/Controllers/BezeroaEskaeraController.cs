@@ -20,14 +20,19 @@ namespace RESTAPI.Controllers
         {
             _saskiaAleaService = saskiaAleaService;
         }
+        // GET: api/BezeroaEskaera
+        [HttpGet]
+        public async Task<ActionResult<List<BezeroaEskaera>>> GetBezeroaEskaerak()
+        {
+            return await _saskiaAleaService.GetBezeroaEskaerak();
+        }
 
         // POST: api/SaskiaAlea
         // To protect from overposting attacks, see https://go.microsoft.com/fwlink/?linkid=2123754
         [HttpPost]
         public async Task<ActionResult<BezeroaEskaera>> PostBezeroaEskaera(BezeroaEskaera bezeroaEskaera)
         {
-            await _saskiaAleaService.PostBezeroaEskaera(bezeroaEskaera);
-            return NoContent();
+            return await _saskiaAleaService.PostBezeroaEskaera(bezeroaEskaera);
         }
     }
 }

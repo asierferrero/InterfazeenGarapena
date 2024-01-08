@@ -25,6 +25,6 @@ namespace RESTAPI.Models
         public System.DateTime Data { get; set; }
         [ScaffoldColumn(false)]
         public string Erabiltzailea { get; set; }
-        public IList<Erosketa> Erosketak { get; set; }
+        //public IList<Erosketa> Erosketak { get; set; }
     }
 }

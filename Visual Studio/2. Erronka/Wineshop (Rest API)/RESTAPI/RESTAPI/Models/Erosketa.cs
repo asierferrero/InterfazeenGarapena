@@ -9,6 +9,6 @@ namespace RESTAPI.Models
         public int Kantitatea { get; set; }
         public int ArdoaId { get; set; }
         public int BezeroaEskaeraId { get; set; }
-        public virtual BezeroaEskaera BezeroaEskaera { get; set; }
+        //public virtual BezeroaEskaera BezeroaEskaera { get; set; }
     }
 }

@@ -7,7 +7,7 @@ namespace WineShop.Services
 {
     public class SaskiaService : ISaskiaService
     {
-        private Uri rutaTodos = new Uri("https://localhost:44371/api/SaskiaAlea/");
+        private Uri rutaTodos = new Uri("https://localhost:44371/api/SaskiaAlea/"); //Portua restapi-ko berdina izan behar da. 
         private readonly IArdoaService _ardoaService;
         public SaskiaService(IArdoaService ardoaService)
         {
@@ -73,6 +73,40 @@ namespace WineShop.Services
                 }
             }
             return saskiaAleaList;
+        }
+
+        public async Task EskaeraBezeroaGehitu(BezeroaEskaera bezeroaEskaera)
+        {
+            Uri rutaBezeroEskaera = new Uri("https://localhost:44371/api/BezeroaEskaera/");
+            using (var httpClient = new HttpClient())
+            {
+                StringContent content = new StringContent(JsonConvert.SerializeObject(bezeroaEskaera), Encoding.UTF8,
+                "application/json");
+                var response = await httpClient.PostAsync(rutaBezeroEskaera, content);
+                response.EnsureSuccessStatusCode();
+            }
+        }
+
+        public async Task EskaeraSortu(BezeroaEskaera bezeroaEskaera, string saskiaId)
+        {
+            var cartItems = await SaskiaLortuAleak(saskiaId);
+            foreach (var item in cartItems)
+            {
+                var erosketa = new Erosketa
+                {
+                    ArdoaId = item.ArdoaId,
+                    BezeroaEskaeraId = bezeroaEskaera.Id,
+                    Kantitatea = item.Kantitatea
+                };
+                Uri rutaErosketa = new Uri("https://localhost:44371/api/Erosketa/");
+                using (var httpClient = new HttpClient())
+                {
+                    StringContent content = new StringContent(JsonConvert.SerializeObject(erosketa), Encoding.UTF8,
+                    "application/json");
+                    var response = await httpClient.PostAsync(rutaErosketa, content);
+                    response.EnsureSuccessStatusCode();
+                }
+            }
         }
     }
 }

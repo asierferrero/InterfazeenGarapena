@@ -27,8 +27,9 @@ namespace RESTAPI.Controllers
         {
             return await _ardoaService.GetArdoak();
         }
-        
+
         // GET: api/Ardoa/Mota/1
+        [HttpGet]
         [Route("Mota/{id}")]
         public async Task<ActionResult<List<ArdoaUpeltegiDto>>> GetMota(int id)
         {

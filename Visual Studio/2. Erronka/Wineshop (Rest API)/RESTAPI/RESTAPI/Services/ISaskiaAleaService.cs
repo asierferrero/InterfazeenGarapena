@@ -16,7 +16,8 @@ namespace RESTAPI.Services
         Task PostSaskiaAlea(SaskiaAlea saskiaAlea);
         Task DeleteSaskiaAlea(SaskiaAlea saskiaAlea);
         bool SaskiaAleaExists(int id);
-        Task PostBezeroaEskaera(BezeroaEskaera bezeroaEskaera);
+        Task<List<BezeroaEskaera>> GetBezeroaEskaerak();
+        Task<BezeroaEskaera> PostBezeroaEskaera(BezeroaEskaera bezeroaEskaera);
         Task PostErosketa(Erosketa erosketa);
     }
 }
